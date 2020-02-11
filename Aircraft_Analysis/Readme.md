@@ -9,9 +9,8 @@ Visualize the launches in an informative way, and write a few words describing y
 
 #### You Can find the information about this dataset in information.md file. The dataset has 800 files which contain information of aircrafts &  1 Summary dataset.
 
-## Operations Performed
-
-#### 1] Data Cleaning
+## Operations Performed:
+#### 1] Data Preprocessing- As mentioned earlier the dataset had 800 different file So I combined those files into one and join them with summary dataset() 
 #### 2] Data Visualization
 #### 3] interesting patterns in the data, e.g. weather seasonality, poorly performing parts,Interactive visualization, Pattern findings
 ******* Some of the interactive visualiztions using BOOKEH Library may not be visible here but you can run it on your jupyter notebook.
