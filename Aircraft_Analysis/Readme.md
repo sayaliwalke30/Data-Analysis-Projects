@@ -5,11 +5,7 @@
 
 ### **/
 ### Problem Statement
-Visualize the launches in an informative way, and write a few words describing your work and what you found.Identify any "outlier" launches that an engineer should look over, and why.
-1. DOUBLE BONUS: Identify any interesting patterns in the data, e.g. weather seasonality, poorly performing parts, etc.
-
-
-
+Visualize the launches in an informative way, and write a few words describing your work and what you found.Identify any "outlier" launches that an engineer should look over, and why. Identify any interesting patterns in the data, e.g. weather seasonality, poorly performing parts, etc.
 
 #### You Can find the information about this dataset in information.md file
 
