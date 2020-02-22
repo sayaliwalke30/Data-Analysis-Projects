@@ -4,7 +4,7 @@
 ## The Dataset
 
 In this directory, you'll find:
-- A `flight_XXXXX.csv` file for each flight in the dataset.
+ A `flight_XXXXX.csv` file for each flight in the dataset.
  Each file contains the following signals from 5 seconds prior to launch, to 15 seconds after launch, logged at approximately 50Hz:
 
 Name | Units | Description
